@@ -1,4 +1,4 @@
-<p align="center"><img width="45%"  src="https://cdn.rawgit.com/delionAPI/delion-payment-client/delion-logo.png"></p>
+<p align="center"><img width="45%"  src="https://github.com/delionAPI/delion-payment-client/raw/master/delion-logo.png"></p>
 
 ----
 
