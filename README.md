@@ -73,7 +73,7 @@ Render the component on the parent page:
 				prefilledPaymentObject: {
 					transactions:[
 						{
-							recipient_user: recipient,         //recipient user email
+							recipient_address: recipient,         //recipient email address
 							description: description,          // payment description
                             amount: { total: price }           // total price
                         }
